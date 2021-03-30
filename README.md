@@ -1,4 +1,4 @@
-# Quasar microlensing light curve analysis using deep machine learning
+# Quasar microlensing light curve analysis using deep learning
 
 Code related to paper "Quasar microlensing light curve analysis using deep machine learning"
 by Georgios Vernardos, Grigorios Tsagkatakis, Monthly Notices of the Royal Astronomical Society, Volume 486, Issue 2, June 2019, Pages 1944–1952
