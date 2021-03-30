@@ -8,7 +8,7 @@ Dataset located [here](https://urldefense.com/v3/__https://drive.google.com/driv
 
 # Requirements
 
-(Mandatory) numpy, matplotlib, tensorflow
+- (Mandatory) numpy, matplotlib, tensorflow
 
-(Optional) scipy, pickle, sklearn
+- (Optional) scipy, pickle, sklearn
 
