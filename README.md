@@ -7,7 +7,7 @@ Code related to paper "[Quasar microlensing light curve analysis using deep mach
 by Georgios Vernardos, Grigorios Tsagkatakis, Monthly Notices of the Royal Astronomical Society, Volume 486, Issue 2, June 2019, Pages 1944–1952
 https://doi.org/10.1093/mnras/stz868
 
-Dataset located [here](https://urldefense.com/v3/__https://drive.google.com/drive/folders/1oGlwFru5CMQTUmTMbgp-ZKXNeYBlRDgw?usp=sharing__;!!Pp5KzSszWng!Dm7uUagUtS1oXgvyn2aeipIqZglpwVVlrMmU3A1354K_LPm9BskvAjQKb8nXVx--be60qQXxXJo$)
+Dataset located [here](https://forthgr-my.sharepoint.com/:f:/g/personal/greg_ics_forth_gr/Ehy5YTS6CshAqGMthy-RWEwBI94h7eDWJay98_lROiPuiA?e=qpigCG)
 
 # Requirements
 
