@@ -88,7 +88,7 @@ plot_losses = PlotLosses()
 
 plt.close('all')
 
-mat = scio.loadmat('/content/drive/MyDrive/CNN_LightCurveProject/lc_50000examples_train_n_validate.mat')
+mat = scio.loadmat('lc_new_data_50000.mat')
 
 data=mat.get('data')
 labels=mat.get('labels')
